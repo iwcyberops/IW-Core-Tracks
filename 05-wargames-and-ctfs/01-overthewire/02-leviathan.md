@@ -11,3 +11,11 @@ Keywords: IW Cyber Ops, Muhammad Imran Wakeel, OverTheWire Leviathan Solutions, 
 > **Mission Scope:** Deconstruct Linux binary logic flaws, dynamic library call interception, file descriptor redirection, and local privilege escalation.
 
 ---
+
+## 🧭 Operational Overview
+
+The **Leviathan** wargame marks the critical transition from pure Linux command-line administration into **Binary Logic Auditing and Local Privilege Escalation (LPE).**
+
+Unlike standard file-hunting exercises, Leviathan presents custom compiled SUID executables running with elevated user privileges. To capture the next level credentials stored inside `/etc/leviathan_pass/`, an operator must inspect binaries without source code, trace dynamic library calls (**`ltrace`**), intercept system calls (**`strace`**), bypass filename validation checks, weaponize symbolic links (**`ln -s`**), and decode raw bitstreams directly inside the terminal.
+
+---
