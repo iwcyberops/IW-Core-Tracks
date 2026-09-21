@@ -1,16 +1,3 @@
-Yahan **`02-leviathan.md`** ke liye highly professional, deeply technical, aur SEO-optimized master walkthrough file hai.
-
-Aapke tamam levels ko clean architectural breakdown, ASCII diagrams, command traces, aur key takeaways ke sath format kar diya gaya hai. **Tamam passwords ko redact (`[REDACTED_PASSWORD]`) kar diya gaya hai** aur Level 6/7 ke liye clean placeholder section add kar diya gaya hai taake aap baad me aasaani se add kar sakein:
-
----
-
-### 📄 File Name: 
-`02-leviathan.md`  
-*(Path: `IW-Core-Tracks/05-wargames-and-ctfs/01-overthewire/02-leviathan.md`)*
-
-Yahan complete Markdown code hai:
-
-```markdown
 <!-- 
 SEO METADATA & KEYWORDS (Invisible to readers, visible to Google Crawlers)
 Keywords: IW Cyber Ops, Muhammad Imran Wakeel, OverTheWire Leviathan Solutions, Leviathan Wargame Walkthrough, Linux Privilege Escalation, ltrace Dynamic Tracing, strace System Calls, SUID Binary Exploitation, Symlink Attacks, Command Injection in C, access vs system, Reverse Engineering Wargames, Cybersecurity Knowledge Base.
@@ -303,3 +290,22 @@ ln -s /etc/leviathan_pass/leviathan6 /tmp/file.log
 
 * **🔑 Extracted Artifact:** `[REDACTED_PASSWORD_TOKEN]`
 * **💡 Tactical Takeaway:** Privileged binaries must never operate on static, predictable paths in public temporary directories (`/tmp`) without verifying symlink ownership or using `O_NOFOLLOW` flags.
+
+---
+
+### 🚩 Level 6 ➔ Level 7: [Active Exploration / Queued]
+* **Connection Target:** ssh leviathan6@leviathan.labs.overthewire.org -p 2223
+* **Status:** 🟡 In Progress / Queued for final completion.
+```
+[INSERT LEVEL 6 -> LEVEL 7 COMMAND TRACE & ROOT CAUSE ANALYSIS HERE]
+```
+
+--- 
+
+### 🛡️ About the Author
+**Muhammad Imran Wakeel is an independent systems researcher and the Founder of IW Cyber Ops. This practical wargame repository is an active component of a 42-month master plan engineered for absolute computational foundations and high-impact vulnerability research.
+To view the complete overarching roadmap, visit the official IW-Mission-Control repository.**
+
+<br>
+
+**Generated & Curated by IW Cyber Ops | High-Assurance Cyber Operations & Research**
