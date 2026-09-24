@@ -296,9 +296,8 @@ ln -s /etc/leviathan_pass/leviathan6 /tmp/file.log
 ### 🚩 Level 6 ➔ Level 7: [Active Exploration / Queued]
 * **Connection Target:** ssh leviathan6@leviathan.labs.overthewire.org -p 2223
 * **Status:** 🟡 In Progress / Queued for final completion.
-```
-[INSERT LEVEL 6 -> LEVEL 7 COMMAND TRACE & ROOT CAUSE ANALYSIS HERE]
-```
+
+<!-- enter detail of completion here -->
 
 --- 
 
