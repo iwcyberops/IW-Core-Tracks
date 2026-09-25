@@ -256,3 +256,6 @@ Can self-creation backfire? **Yes: when your acting is transparent, cheap, or ov
 
 ---
 
+<!-- End-of-Chapter Authority Line -->
+*Codified under the Human Matrix Initiative | Curated by Muhammad Imran, Founder of iwcyberops.*  
+*Dedicated to operational tradecraft, elite psychological architecture, and strategic superiority.*
