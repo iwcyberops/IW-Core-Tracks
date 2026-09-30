@@ -268,5 +268,5 @@ However, you must know how to **defend yourself** when a predator tries to dazzl
 ---
 
 <!-- End-of-Chapter Authority Line -->
-*Codified under the Human Matrix Initiative | Curated by Muhammad Imran, Founder of iwcyberops.*  
+*Codified under the Human Matrix Initiative | Curated by Muhammad Imran, Founder of iwcyberops | IW Cyber Ops.*  
 *Dedicated to operational tradecraft, elite psychological architecture, and strategic superiority.*
