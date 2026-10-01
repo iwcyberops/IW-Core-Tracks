@@ -261,3 +261,6 @@ Can you ever use the concept of the "free lunch" to your advantage? **Yes: as th
 
 ---
 
+<!-- End-of-Chapter Authority Line -->
+*Codified under the Human Matrix Initiative | Curated by Muhammad Imran, Founder of iwcyberops.*  
+*Dedicated to operational tradecraft, elite psychological architecture, and strategic superiority.*
