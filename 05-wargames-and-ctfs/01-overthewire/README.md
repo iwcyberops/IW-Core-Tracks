@@ -49,7 +49,7 @@ OverTheWire is engineered with a strict pedagogical hierarchy—taking a student
   * **Network Plumbing:** Connecting to raw TCP/SSL sockets using `nc` (netcat), `socat`, and `openssl s_client`.
   * **System Privilege Foundations:** Intercepting automated `cron` jobs, analyzing `SUID`/`SGID` binary permissions, and exploiting Git repository commit history.
 
-### 2. 🔍 System Logic & Privilege Escalation (Leviathan: Levels 6–7)
+### 2. 🔍 System Logic & Privilege Escalation (Leviathan: Levels 0–7)
 * **Who it is for:** Researchers ready to transition from administration to binary auditing.
 * **Core Skills Acquired:**
   * **Dynamic Syscall Tracing:** Using `ltrace` (library call tracing) and `strace` (system call tracing) to reveal hardcoded passwords and logic flaws inside compiled binaries.
@@ -74,7 +74,7 @@ Each wargame series is documented inside **one comprehensive, single-file master
 | Wargame Series | Primary Domain | Total Levels | Completed | Status | Master Walkthrough File |
 | :--- | :--- | :---: | :---: | :---: | :--- |
 | **Bandit** | Linux CLI, Shell & FHS Fundamentals | 34 | `34 / 34` | 🟢 Completed | `[bandit.md](./bandit.md)` |
-| **Leviathan** | Linux Logic & Dynamic Binary Tracing | 8 | `0 / 8` | 🟡 Active | `[leviathan.md](./leviathan.md)` |
+| **Leviathan** | Linux Logic & Dynamic Binary Tracing | 8 | `6 / 8` | 🟡 Active | `[leviathan.md](./leviathan.md)` |
 | **Natas** | Server-Side Web Application Security | 34 | `0 / 34` | 🔴 Queued | `[natas.md](./natas.md)` |
 | **Krypton** | Classical & Modern Cryptography | 7 | `0 / 7` | 🔴 Queued | `[krypton.md](./krypton.md)` |
 | **Narnia** | C Memory Corruption & Buffer Overflows | 9 | `0 / 9` | 🔴 Queued | `[narnia.md](./narnia.md)` |
