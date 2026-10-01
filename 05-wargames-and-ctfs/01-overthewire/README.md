@@ -49,7 +49,7 @@ OverTheWire is engineered with a strict pedagogical hierarchy—taking a student
   * **Network Plumbing:** Connecting to raw TCP/SSL sockets using `nc` (netcat), `socat`, and `openssl s_client`.
   * **System Privilege Foundations:** Intercepting automated `cron` jobs, analyzing `SUID`/`SGID` binary permissions, and exploiting Git repository commit history.
 
-### 2. 🔍 System Logic & Privilege Escalation (Leviathan: Levels 0–7)
+### 2. 🔍 System Logic & Privilege Escalation (Leviathan: Levels 6–7)
 * **Who it is for:** Researchers ready to transition from administration to binary auditing.
 * **Core Skills Acquired:**
   * **Dynamic Syscall Tracing:** Using `ltrace` (library call tracing) and `strace` (system call tracing) to reveal hardcoded passwords and logic flaws inside compiled binaries.
