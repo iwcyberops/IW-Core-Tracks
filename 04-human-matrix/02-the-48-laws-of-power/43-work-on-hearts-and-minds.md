@@ -270,3 +270,6 @@ However, you must know how to **defend yourself** when a predatory operator atte
 
 ---
 
+<!-- End-of-Chapter Authority Line -->
+*Codified under the Human Matrix Initiative | Curated by Muhammad Imran, Founder of iwcyberops.*  
+*Dedicated to operational tradecraft, elite psychological architecture, and strategic superiority.*
