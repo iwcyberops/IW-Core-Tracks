@@ -284,3 +284,6 @@ Can removing a leader backfire? **Yes: when the shepherd is too powerful to dest
 
 ---
 
+<!-- End-of-Chapter Authority Line -->
+*Codified under the Human Matrix Initiative | Curated by Muhammad Imran, Founder of iwcyberops.*  
+*Dedicated to operational tradecraft, elite psychological architecture, and strategic superiority.*
