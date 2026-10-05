@@ -273,3 +273,6 @@ Is formlessness the *only* thing you need? **NO. Formlessness is how you maneuve
 
 ---
 
+<!-- End-of-Chapter Authority Line -->
+*Codified under the Human Matrix Initiative | Curated by Muhammad Imran, Founder of iwcyberops.*  
+*Dedicated to operational tradecraft, elite psychological architecture, and strategic superiority.*
