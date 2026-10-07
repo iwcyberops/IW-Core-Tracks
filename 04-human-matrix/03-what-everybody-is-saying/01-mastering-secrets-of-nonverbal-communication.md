@@ -273,3 +273,7 @@ Complete these six real-world observation drills to build your people-reading ca
 * [ ] **Exercise 5 (The Spatial Boundary Test):** Stand comfortably in conversation with an acquaintance. Step forward roughly 6 to 12 inches. Notice their lower limbs: do they hold ground (comfort), take a subtle step back, or angle their feet away (discomfort)? Return to neutral.
 * [ ] **Exercise 6 (The Invisible Observer):** Observe three strangers in a public setting without making direct eye contact. Use peripheral vision and reflective glass to map their body posture and stress tells without alerting them.
 
+---
+
+*Codified under the Human Matrix Initiative | Curated by Muhammad Imran, Founder of iwcyberops.*  
+*Dedicated to operational tradecraft, elite psychological architecture, and strategic superiority.*
