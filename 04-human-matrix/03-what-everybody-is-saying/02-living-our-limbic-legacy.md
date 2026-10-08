@@ -242,3 +242,20 @@ When you are being questioned, negotiated with, or profiled by a trained observe
 5. **Manage the "Ventilator" Reflex:**
    * Never pull your collar, tug your shirt fabric, or push your fingers through your hair when under scrutiny. Maintain a relaxed posture and let your body acclimate without visible fidgeting.
 
+---
+
+## 📋 8. Actionable Daily Field Checklist
+
+Implement these six observational drills to anchor Chapter 2 principles:
+
+* [ ] **Exercise 1 (The Suprasternal Scan):** During your next three meetings, observe colleagues whenever an unexpected deadline or problem is announced. Track whether anyone’s hand immediately covers the base of their throat or plays with a necklace.
+* [ ] **Exercise 2 (The Under-Table Leg Cleanser):** Sit in a conference room or restaurant where you can see beneath tables. Watch individuals having intense discussions. Track how frequently hands slide down thighs when sensitive topics emerge.
+* [ ] **Exercise 3 (Spotting the Turtle Reflex):** Watch a sports press conference featuring a losing coach or player, or observe a colleague receiving sharp critical feedback. Look for the slow rise of the shoulders toward the ears.
+* [ ] **Exercise 4 (The Pacifying Stimulus Hunt):** The moment you see an acquaintance stroke the back of their neck or puff their cheeks, ask yourself: *"What happened or was said in the last 5 seconds that triggered this soothe?"* Identify the precise stressor.
+* [ ] **Exercise 5 (The Breath & Anchor Audit):** During a high-stakes conversation, monitor your own physical reactions. Check whether your feet have locked behind the chair legs or if your respiration has turned shallow. Deliberately unlock and ground yourself.
+* [ ] **Exercise 6 (The Ventilator Catch):** Notice when people in social or work settings tug at their collar, fan their clothing, or run hands through their hair. Differentiate between environmental heat and psychological discomfort based on conversational timing.
+
+---
+
+*Codified under the Human Matrix Initiative | Curated by Muhammad Imran, Founder of iwcyberops.*  
+*Dedicated to operational tradecraft, elite psychological architecture, and strategic superiority.*
