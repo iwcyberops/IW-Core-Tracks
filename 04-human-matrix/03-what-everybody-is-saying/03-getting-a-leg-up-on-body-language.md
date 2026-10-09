@@ -255,3 +255,18 @@ When sitting across from experienced investigators, counter-intelligence officer
 
 ---
 
+## 📋 8. Actionable Daily Field Checklist
+
+Run these six field exercises to sharpen your lower-limb observational tradecraft:
+
+* [ ] **Exercise 1 (The Glass Table Recon):** Conduct your next coffee meeting or lunch at an open or glass table. Spend 10 minutes observing whether your companion’s feet point toward you, toward an aisle, or toward the exit.
+* [ ] **Exercise 2 (The "Shake and Wait" Experiment):** When greeting three different people today, step in, shake hands warmly, and take one deliberate step backward. Track who steps toward you (comfort), who stays put (neutral), and who takes a step back (space defense).
+* [ ] **Exercise 3 (Spotting the Knee Clasp):** During meetings or casual visits with friends, watch for the exact moment someone places both hands on their knees and shifts weight forward. Stop talking within 10 seconds and note how smoothly the meeting concludes.
+* [ ] **Exercise 4 (The Foot Freeze Hunt):** Watch a televised political debate or a live panel discussion. Find a speaker whose feet or legs are constantly moving. Notice the exact question or counter-argument that causes their lower limbs to suddenly go dead still.
+* [ ] **Exercise 5 (The Standing Approach Test):** Walk up to two colleagues engaged in conversation. Observe their feet: do their toes pivot outward to welcome you into a triangle, or do only their torsos swivel while their feet stay locked together?
+* [ ] **Exercise 6 (Anti-Profiling Self-Check):** Set a timer on your phone for three random intervals during your workday. When it vibrates, instantly freeze and audit your feet: Were your ankles locked behind chair legs? Were you bouncing your feet? Were your toes pointed away from your desk?
+
+---
+
+*Codified under the Human Matrix Initiative | Curated by Muhammad Imran, Founder of iwcyberops.*  
+*Dedicated to operational tradecraft, elite psychological architecture, and strategic superiority.*
