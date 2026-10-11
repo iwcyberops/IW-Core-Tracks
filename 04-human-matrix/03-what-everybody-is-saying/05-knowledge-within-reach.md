@@ -238,3 +238,20 @@ When you are the target of high-stakes questioning, technical auditing, or count
 5. **Master the Upper-Arm Rapport Touch:**
    * When shaking hands with a new client, peer, or asset, use your left hand to briefly and lightly touch their upper arm (between the elbow and shoulder). This single non-intrusive micro-touch accelerates trust and disarms defensiveness.
 
+---
+
+## 📋 8. Actionable Daily Field Checklist
+
+Complete these six field exercises to train your arm-observation capabilities:
+
+* [ ] **Exercise 1 (The Cobra Hooding Spot):** Attend a multi-person business meeting. Identify the single individual who interlaces their hands behind their head. Track what happens when an even higher-status executive walks into the room.
+* [ ] **Exercise 2 (The Shoplifter Scan):** Walk through an electronics or department store for 15 minutes. Identify individuals whose arm movements are unnaturally frozen or held tight against their ribs compared to normal shoppers.
+* [ ] **Exercise 3 (The Shared Armrest Test):** On your next flight, train ride, or movie theater visit, observe how people manage shared armrests. Track how high-confidence individuals claim territory compared to timid passengers.
+* [ ] **Exercise 4 (The Inquisitive vs. Dominant Akimbo):** Watch police officers, security guards, or sports referees on duty. Catalog how many stand with thumbs forward (inquisitive) versus thumbs back (dominant/authoritarian).
+* [ ] **Exercise 5 (The Disrobing Alert):** Watch footage of street confrontations or sports arguments. Identify the exact moment someone removes an item of clothing (jacket, hat, shirt). Notice how quickly physical violence follows.
+* [ ] **Exercise 6 (Defensive Arm Audit):** During your next stressful work interaction or high-stakes presentation, consciously ensure your arms stay open, visible, and uncrossed. Suppress all impulses to pull your hands into your pockets.
+
+---
+
+*Codified under the Human Matrix Initiative | Curated by Muhammad Imran, Founder of iwcyberops.*  
+*Dedicated to operational tradecraft, elite psychological architecture, and strategic superiority.*
