@@ -216,3 +216,39 @@ To read hidden truths without tipping off your target, follow this 12-step field
 
 ---
 
+## 🛡️ 7. The Poker-Face Shield (Defensive Counter-Measures)
+
+If you are being audited, questioned, or interviewed by trained investigators, you must prevent your body from leaking stress signals:
+
+```
+[CONSCIOUS CONTROL] ──► Palms Down on Table ──► Match Head & Voice ──► Speak with Emphasis
+```
+
+1. **Keep Palms Down (Never Plead):**
+   * When making an important denial or stating facts, always keep your hands **face down** on the table. Never talk with palms turned up in the pleading *rogatory* position. Truthful statements stand on their own without begging.
+2. **Ensure Immediate Head Synchrony:**
+   * When saying *"No, that never happened"*, shake your head at the exact instant you speak the word "No". Never finish the sentence and then shake your head afterward.
+3. **Use Natural Physical Emphasis:**
+   * Do not sit completely still like a frozen statue. When you make an important point, use your hands to gesture calmly, lean forward slightly, and show normal facial animation.
+4. **Eliminate Barrier Building:**
+   * Never move coffee cups, laptops, or folders in front of your chest during a meeting. Keep your space open and clear to show you have no fear of being seen.
+5. **Manage the Two-Step Stress Cycle:**
+   * If a hostile question catches you off guard, do not lean back, do not pull your feet under the chair, and never touch your neck or face. Take a slow breath, keep your hands still on the table, and pause before replying.
+
+---
+
+## 📋 8. Actionable Daily Field Checklist
+
+Practice these six simple drills to build your deception-detection skills:
+
+* [ ] **Exercise 1 (The Head-Nod Timing Test):** Watch television interviews or panel discussions. Look for people who say *"Yes"* or *"No"* but have a delayed head nod or shake that happens after the words are spoken.
+* [ ] **Exercise 2 (The Pleading Palms Scan):** In your daily meetings, watch how people hold their hands when explaining delays or mistakes. Count how many people turn their palms up (*rogatory position*) when asking to be believed.
+* [ ] **Exercise 3 (Spotting the Desktop Barrier):** Watch people during difficult lunch conversations or tense meetings. See if anyone starts stacking cups, bottles, or books between themselves and the person they disagree with.
+* [ ] **Exercise 4 (The 2-Step Stress Catch):** When someone is asked a surprising or difficult question, watch for the two-step sequence: first, a quick freeze or lean back, followed by an immediate hand touch to the neck, nose, or leg.
+* [ ] **Exercise 5 (The Single-Shoulder Spotting):** Watch political press conferences. Track how many times a speaker gives a half-hearted, single-shoulder shrug while claiming to be completely certain about an issue.
+* [ ] **Exercise 6 (Anti-Profiling Discipline Drill):** Practice answering tough questions in front of a mirror: keep your hands flat on the table, palms down, keep your head movements perfectly in time with your voice, and eliminate all neck-touching.
+
+---
+
+*Codified under the Human Matrix Initiative | Curated by Muhammad Imran, Founder of iwcyberops.*  
+*Dedicated to operational tradecraft, elite psychological architecture, and strategic superiority.*
